@@ -2,8 +2,8 @@
 
 A customizable `UITextField`-based component that provides a **floating label**, **icon support**, and **optional password field behavior**. Built with `UIKit` for Swift-based iOS projects.
 
-![Floating TextField Light](screenshots/floating_textfield_light.png)
-![Floating TextField Dark](screenshots/floating_textfield_dark.png)
+![Floating TextField Empty](screenshots/floating_textfield_light.png)
+![Floating TextField Fillup](screenshots/floating_textfield_dark.png)
 
 ## ✨ Features
 
@@ -98,7 +98,7 @@ floatingTextField.setInputViewDatePicker(
 
 ## 📂 Screenshots
 
-| Light Mode | Dark Mode |
+| Empty Mode | Fill Mode |
 |------------|-----------|
 | ![light](screenshots/floating_textfield_light.png) | ![dark](screenshots/floating_textfield_dark.png) |
 
